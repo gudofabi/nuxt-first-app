@@ -18,6 +18,9 @@
       <li class="mr-2">
         <NuxtLink to="/profile">Profile</NuxtLink>
       </li>
+      <li class="mr-2">
+        <NuxtLink to="/repository-pattern">Repository</NuxtLink>
+      </li>
     </ul>
   </header>
 </template>
